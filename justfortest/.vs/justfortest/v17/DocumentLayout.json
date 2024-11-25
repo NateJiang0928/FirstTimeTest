@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jiangbinbin\\Desktop\\justfortest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB93ACD-9954-48D8-9DE4-32639E751194}|justfortest\\justfortest.csproj|c:\\users\\jiangbinbin\\desktop\\justfortest\\justfortest\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB93ACD-9954-48D8-9DE4-32639E751194}|justfortest\\justfortest.csproj|solutionrelative:justfortest\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB93ACD-9954-48D8-9DE4-32639E751194}|justfortest\\justfortest.csproj|C:\\Users\\jiangbinbin\\Desktop\\justfortest\\justfortest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB93ACD-9954-48D8-9DE4-32639E751194}|justfortest\\justfortest.csproj|solutionrelative:justfortest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB93ACD-9954-48D8-9DE4-32639E751194}|justfortest\\justfortest.csproj|C:\\Users\\jiangbinbin\\Desktop\\justfortest\\justfortest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EB93ACD-9954-48D8-9DE4-32639E751194}|justfortest\\justfortest.csproj|solutionrelative:justfortest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB93ACD-9954-48D8-9DE4-32639E751194}|justfortest\\justfortest.csproj|C:\\Users\\jiangbinbin\\Desktop\\justfortest\\justfortest\\justfortest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9EB93ACD-9954-48D8-9DE4-32639E751194}|justfortest\\justfortest.csproj|solutionrelative:justfortest\\justfortest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB93ACD-9954-48D8-9DE4-32639E751194}|justfortest\\justfortest.csproj|C:\\Users\\jiangbinbin\\Desktop\\justfortest\\justfortest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EB93ACD-9954-48D8-9DE4-32639E751194}|justfortest\\justfortest.csproj|solutionrelative:justfortest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB93ACD-9954-48D8-9DE4-32639E751194}|justfortest\\justfortest.csproj|C:\\Users\\jiangbinbin\\Desktop\\justfortest\\justfortest\\justfortest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EB93ACD-9954-48D8-9DE4-32639E751194}|justfortest\\justfortest.csproj|solutionrelative:justfortest\\justfortest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\jiangbinbin\\Desktop\\justfortest\\justfortest\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "justfortest\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\jiangbinbin\\Desktop\\justfortest\\justfortest\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "justfortest\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:21:03.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jiangbinbin\\Desktop\\justfortest\\justfortest\\appsettings.json",
+              "RelativeDocumentMoniker": "justfortest\\appsettings.json",
+              "ToolTip": "C:\\Users\\jiangbinbin\\Desktop\\justfortest\\justfortest\\appsettings.json",
+              "RelativeToolTip": "justfortest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T10:36:34.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "justfortest.http",
+              "DocumentMoniker": "C:\\Users\\jiangbinbin\\Desktop\\justfortest\\justfortest\\justfortest.http",
+              "RelativeDocumentMoniker": "justfortest\\justfortest.http",
+              "ToolTip": "C:\\Users\\jiangbinbin\\Desktop\\justfortest\\justfortest\\justfortest.http",
+              "RelativeToolTip": "justfortest\\justfortest.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-16T10:36:31.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "justfortest.csproj",
+              "DocumentMoniker": "C:\\Users\\jiangbinbin\\Desktop\\justfortest\\justfortest\\justfortest.csproj",
+              "RelativeDocumentMoniker": "justfortest\\justfortest.csproj",
+              "ToolTip": "C:\\Users\\jiangbinbin\\Desktop\\justfortest\\justfortest\\justfortest.csproj",
+              "RelativeToolTip": "justfortest\\justfortest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T08:25:06.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jiangbinbin\\Desktop\\justfortest\\justfortest\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "justfortest\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jiangbinbin\\Desktop\\justfortest\\justfortest\\Properties\\launchSettings.json",
+              "RelativeToolTip": "justfortest\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T08:23:21.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jiangbinbin\\Desktop\\justfortest\\justfortest\\Program.cs",
+              "RelativeDocumentMoniker": "justfortest\\Program.cs",
+              "ToolTip": "C:\\Users\\jiangbinbin\\Desktop\\justfortest\\justfortest\\Program.cs",
+              "RelativeToolTip": "justfortest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:23:05.801Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

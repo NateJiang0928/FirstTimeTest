@@ -1,0 +1,5 @@
+C:\Users\jiangbinbin\Desktop\justfortest\justfortest\obj\Debug\netcoreapp2.1\justfortest.csproj.AssemblyReference.cache
+C:\Users\jiangbinbin\Desktop\justfortest\justfortest\obj\Debug\netcoreapp2.1\justfortest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiangbinbin\Desktop\justfortest\justfortest\obj\Debug\netcoreapp2.1\justfortest.AssemblyInfoInputs.cache
+C:\Users\jiangbinbin\Desktop\justfortest\justfortest\obj\Debug\netcoreapp2.1\justfortest.AssemblyInfo.cs
+C:\Users\jiangbinbin\Desktop\justfortest\justfortest\obj\Debug\netcoreapp2.1\justfortest.csproj.CoreCompileInputs.cache
